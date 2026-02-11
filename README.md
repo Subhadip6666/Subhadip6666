@@ -28,7 +28,6 @@ My goal is to become a professional software engineer and crack competitive exam
 <p align="center">
     <img src="game.gif">
 </p>
----
 
 ## 🛠️ Skills
 
