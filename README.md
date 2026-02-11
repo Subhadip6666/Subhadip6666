@@ -39,7 +39,6 @@ My goal is to become a professional software engineer and crack competitive exam
   - AI & Machine Learning  
   - Open Source Projects  
 
----
 
 ## 📂 Projects
 
@@ -49,7 +48,6 @@ My goal is to become a professional software engineer and crack competitive exam
 
 (Projects are continuously being updated.)
 
----
 
 ## 📈 Goals for 2026
 
@@ -59,21 +57,19 @@ My goal is to become a professional software engineer and crack competitive exam
 - Contribute to **Open Source**
 - Prepare seriously for **GATE Exam**
 
----
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhadip6666&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadip6666&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhadip6666&theme=github_dark" width="600" />
+  <img src="https://streak-stats.demolab.com/?user=Subhadip6666" width="400" />
+</p>
 
 ## 📫 Contact Me
 
 - GitHub: https://github.com/Subhadip6666  
-- Email: *(add your email here)*  
+- Email: subhadippatra789@gmail.com
+- LinkedIn: https://www.linkedin.com/in/subhadip-patra-004532325
 
----
 
 ⚡ *"Consistency beats motivation. I code every day."*
