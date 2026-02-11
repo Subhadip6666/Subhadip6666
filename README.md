@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 I am focused on building strong fundamentals in **C programming, Data Structures, Operating Systems, and AI development**.  
 My goal is to become a professional software engineer and crack competitive exams like **GATE**.
 
+# GAME
+
+<p align="center">
+    <img src="game.gif">
+</p>
 ---
 
 ## 🛠️ Skills
