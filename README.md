@@ -42,7 +42,6 @@ My goal is to become a professional software engineer and crack competitive exam
 
 ## 📂 Projects
 
-- 🧮 **Sorting Algorithms in C** – Implementations of Bubble, Selection, Insertion, Merge Sort  
 - 🖥️ **Basic OS Concepts Project** – Hobby OS exploration in C  
 - 🧠 **AI Learning Projects** – Practice code for ML & Python  
 
