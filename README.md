@@ -60,7 +60,7 @@ My goal is to become a professional software engineer and crack competitive exam
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhadip6666&theme=github_dark" width="600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subhadip6666&theme=github_dark" width="500" />
   <img src="https://streak-stats.demolab.com/?user=Subhadip6666" width="400" />
 </p>
 
