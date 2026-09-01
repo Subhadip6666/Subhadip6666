@@ -2,8 +2,8 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhadip6666/Subhadip6666/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhadip6666/Subhadip6666/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Subhadip6666/Subhadip6666/New-One/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Subhadip6666/Subhadip6666/New-One/light.svg">
   <img alt="Subhadip Patra" src="https://raw.githubusercontent.com/Subhadip6666/Subhadip6666/main/light.svg">
 </picture>
 
